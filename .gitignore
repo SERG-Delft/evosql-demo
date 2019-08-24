@@ -1,3 +1,4 @@
+evosql/mem/
 src/test/java/tutorial/SQLTest*
 *.iml
 target/

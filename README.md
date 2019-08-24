@@ -43,6 +43,7 @@ the folder.
     * Example 2: A query with a database-specific function (reverse)
     * Example 3: A query with a JOIN
     * Example 4: A query with a subquery
+    * Examples 5, 6: More string functions
 
 1. Go back to your IDE. A new `SQLTestexampleN` java file was created in the
 `src/test/java/tutorial` folder.
@@ -52,3 +53,6 @@ the folder.
 1. Run it! Sometimes IntelliJ complains Do not forget to make source level 8. Go
 to File -> Project Structure, and set the Language Level.
 
+## Slides
+
+You can find them here: https://docs.google.com/presentation/d/1QMekg1mUI0sHXM4GR7qw8x4-daoSfhvo28jrPamZ92c/edit?usp=sharing.
