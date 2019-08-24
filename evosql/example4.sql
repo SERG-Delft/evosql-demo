@@ -1,1 +1,2 @@
-select * from product p join category c on c.id = p.category_id where c.name = 'TV' and p.price < 1000
+select * from product where category_id in (select id from category where name = 'Electronic')
+

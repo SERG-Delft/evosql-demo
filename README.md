@@ -39,6 +39,10 @@ CREATE TABLE `product` (
 
 1. Run `sh run.sh exampleN`, where N is the number of the example. There are 4 available in
 the folder.
+    * Example 1: A query with a few conditions (with integers and strings)
+    * Example 2: A query with a database-specific function (reverse)
+    * Example 3: A query with a JOIN
+    * Example 4: A query with a subquery
 
 1. Go back to your IDE. A new `SQLTestexampleN` java file was created in the
 `src/test/java/tutorial` folder.
